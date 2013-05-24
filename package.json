@@ -1,0 +1,11 @@
+{
+    "name":"gnome-icon-finder",
+    "version":"0.0.1",
+    "dependencies":{
+        "async":">=0.2.8"
+    },
+     "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/jsmarkus/gnome-icon-finder.git"
+    }
+}
